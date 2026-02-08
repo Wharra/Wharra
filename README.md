@@ -31,7 +31,7 @@
 
 <p align="center">
   Vice President of DeVinci Blockchain, the official blockchain student association of ESILV (Léonard de Vinci higher education hub),
-bringing together 100+ members through technical workshops, industry talks, and applied projects in finance and blockchain.
+bringing together 130+ members through technical workshops, industry talks, and applied projects in finance and blockchain.
 </p>
 
 <p align="center">
