@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  Blockchain Engineer at Dowsers, working on on-chain analytics, smart contract risk analysis, and quantitative tooling for blockchain-based financial systems.
+  Blockchain Engineer at Dowsers, working on on-chain analytics, smart contract risk analysis, and quantitative tooling for blockchain based financial systems.
 </p>
 
 <p align="center">
