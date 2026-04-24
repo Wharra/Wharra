@@ -55,3 +55,7 @@ bringing together 130+ members through technical workshops, industry talks, and 
 <p align="center">
   <i>Open to quantitative finance, research, and trading collaborations.</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wharra&label=Profile%20Views&color=29AFB3&style=flat-square" alt="Profile Views" />
+</p>
