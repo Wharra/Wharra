@@ -95,7 +95,7 @@ Research project supervised by a Principal Scientist at NAVER LABS Europe.
 
 ### <img src="https://img.shields.io/badge/Community-F59E0B?style=flat-square&logoColor=white" /> Associative & Entrepreneurship
 
-- **Vice President, KS Devinci** · 10+ blockchain workshops with speakers from **JPMorgan, Coinbase, Bybit**
+- **Vice President, DeVinci Blockchain** · 10+ blockchain workshops with speakers from **JPMorgan, Coinbase, Bybit**
 - **Founder, Nexya** · AI automation agency, **€14k+ revenue** across 6 clients
 - **Bloomberg Market Concepts** certified
 
