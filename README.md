@@ -20,7 +20,7 @@ Working at the intersection of **quantitative portfolio management**, **derivati
 
 ### 🏛️ Currently · Quantitative Portfolio Management @ Caisse des Dépôts
 
-Listed funds team at **France's largest public institutional investor**. Multi-asset **allocation research**, **portfolio construction** and **risk monitoring**, building the decision-support tooling the managers use day to day. Contributing to a cross-asset **investment grade / high yield credit arbitrage model** in Python on Bloomberg time series.
+Listed funds team at **France's largest public institutional investor**. Multi-asset **allocation research**, **portfolio construction** and **risk monitoring**, building the decision-support tooling the managers use day to day. Contributing to **cross-asset arbitrage analytics between investment grade and high yield credit**, in Python on Bloomberg time series.
 
 Previously **C++ Quant Developer at Resonance Capital Technologies** in Switzerland, pricing exotic **rates and credit** derivatives on multi-factor lattice models.
 
@@ -45,7 +45,7 @@ MEng Finance & Technology @ **ESILV** · external auditing student at the **MVA 
 
 | | Role | Focus | When |
 |:--|:--|:--|:--|
-| <img src="https://img.shields.io/badge/Caisse_des_D%C3%A9p%C3%B4ts-E2001A?style=for-the-badge&logoColor=white" /> | **Quantitative Portfolio Management** · Listed Funds *(apprenticeship)* | **Multi-asset allocation research** · **portfolio construction** · **risk monitoring** · decision-support tooling for portfolio managers · cross-asset **IG / HY credit arbitrage model** in Python on Bloomberg data | `Sept 2026 → Now` |
+| <img src="https://img.shields.io/badge/Caisse_des_D%C3%A9p%C3%B4ts-E2001A?style=for-the-badge&logoColor=white" /> | **Quantitative Portfolio Management** · Listed Funds *(apprenticeship)* | **Multi-asset allocation research** · **portfolio construction** · **risk monitoring** · decision-support tooling for portfolio managers · **cross-asset IG / HY credit arbitrage analytics** in Python on Bloomberg data | `Sept 2026 → Now` |
 | <img src="https://img.shields.io/badge/Resonance_Capital-0F3D3E?style=for-the-badge&logoColor=white" /> | **Quant Developer** · Fixed Income Derivatives | **C++** pricing library for exotic rates & credit on **multi-factor lattices** · repriced a long-dated callable note within **0.1 %** of closed-form pricers · measured a **60x** cost for a third factor · Win32 → x64 migration validated on 6 production sheets | `May → Sept 2026` |
 | <img src="https://img.shields.io/badge/Azalea-29AFB3?style=for-the-badge&logoColor=white" /> | **Co-Founder** | Non-custodial DCA & rebalancing engine on **Hyperliquid HyperCore** · **$164.6k TVL** · Python execution layer on AWS | `Mar 2026 → Now` |
 | <img src="https://img.shields.io/badge/Dowsers-1F2937?style=for-the-badge&logoColor=white" /> | **Software Engineer** *(apprenticeship)* | Python on-chain analytics on **50+ digital assets** · **15+ static analysis rules** · bytecode decompiler via **symbolic VM execution** · Jenkins CI/CD | `Sept 2024 → May 2026` |
@@ -95,7 +95,7 @@ Research project supervised by a Principal Scientist at NAVER LABS Europe.
 
 ### <img src="https://img.shields.io/badge/Community-F59E0B?style=flat-square&logoColor=white" /> Associative & Entrepreneurship
 
-- **Vice President, DeVinci Blockchain** · 10+ blockchain workshops with speakers from **JPMorgan, Coinbase, Bybit**
+- **Vice President, KS Devinci** · 10+ blockchain workshops with speakers from **JPMorgan, Coinbase, Bybit**
 - **Founder, Nexya** · AI automation agency, **€14k+ revenue** across 6 clients
 - **Bloomberg Market Concepts** certified
 
